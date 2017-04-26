@@ -12,6 +12,9 @@ repository 整理
     Lectures on QuTiP: slides and ipython notebooks
   * [qutip-notebooks](https://github.com/qutip/qutip-notebooks)
     A collection of IPython notebooks using QuTiP: examples, tutorials, development test, etc.
+  * [steeringreview](https://github.com/paulskrzypczyk/steeringreview) 
+  Code to accompany "Quantum steering: a short review with focus on semi-definite programming"
+  
 
 2. Physics
   * [reproduced-paper](https://github.com/jrjohansson/reproduced-papers)
